@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nikolay Kormushev</h1>
 <h3 align="center">A passionate data scientist from Bulgaria</h3>
 
-- 🔭 I’m currently working on my thesis on **Open-vocabulary Panoptic Segmentation**
+- 🔭 I’m currently working on **Open-vocabulary Panoptic Segmentation**
 
-- 🌱 I’m currently finishing the **Erasmu Mundus in AI programme**
+- 🌱 I’m a soon to be graduate of the **Erasmus Mundus in AI programme (EMAI)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nickormushev](https://github.com/nickormushev)
 
