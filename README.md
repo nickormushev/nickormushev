@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nickormushev](https://github.com/nickormushev)
 
-- ⚡ Fun fact [I like bouldering](I like bouldering)
+- ⚡ Fun fact: I like bouldering
 
 - 💬 Ask me about **Machine Learning, Data Science, Computer Vision**
 
