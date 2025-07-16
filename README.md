@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikolay Kormushev</h1>
-<h3 align="center">A passionate data scientist from Bulgaria</h3>
+<h3 align="center">A passionate machine learning engineer from Bulgaria</h3>
 
 - 🔭 I’m currently working on **Open-vocabulary Panoptic Segmentation**
 
