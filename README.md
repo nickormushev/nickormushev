@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Open-vocabulary Panoptic Segmentation**
 
-- 🌱 I’m a soon to be graduate of the **Erasmus Mundus in AI programme (EMAI)**
+- 🌱 I recently graduated the **Erasmus Mundus in AI MsC programme (EMAI)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nickormushev](https://github.com/nickormushev)
 
-- ⚡ Fun fact: I like bouldering
+- ⚡ Fun fact: I like bouldering and guitar
 
 - 💬 Ask me about **Machine Learning, Data Science, Computer Vision**
 
